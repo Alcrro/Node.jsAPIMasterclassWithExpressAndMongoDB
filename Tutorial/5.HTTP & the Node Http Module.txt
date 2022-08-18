@@ -1,0 +1,7 @@
+1.	Hyper Text Transfer Protocol
+
+2.	Communication between web servers & clients
+
+3.	HTTP Requests / Responses
+
+4.	Includes header & body

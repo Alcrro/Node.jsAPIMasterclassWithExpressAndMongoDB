@@ -5,6 +5,7 @@ const colors = require('colors');
 const errorHandler = require('./middleware/error');
 const connectDB = require('./configs/dbConnection');
 const cors = require('cors');
+const logger = require('./utils/log');
 
 //Load env vars
 dotenv.config({ path: './configs/.env' });
@@ -39,9 +40,10 @@ const PORT = process.env.PORT || 5000;
 
 const serverApp = server.listen(
   PORT,
-  console.log(
-    `Server running in ${process.env.NODE_ENV.green} mode on port ${PORT.green}`
-  )
+  logger.info(`Server running in ${process.env.NODE_ENV} mode on port ${PORT}`),
+  logger.error(new Error('Eroare')),
+  logger.warn('Warning', { prop1: 'metadate', value: 10, test: 'bau' }),
+  logger.debug('Debug')
 );
 
 //Handler unhandled promise rejections

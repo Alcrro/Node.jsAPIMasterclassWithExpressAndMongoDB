@@ -1,0 +1,114 @@
+{"level":"info","message":"Server running in development mode on port 5000","timestamp":"2022-08-26T18:03:47.210Z"}
+{"level":"error","message":"Eroare","stack":"Error: Eroare\n    at Object.<anonymous> (C:\\xampp\\htdocs\\Node.jsAPIMasterclassWithExpressAndMongoDB\\backEnd\\server.js:44:16)\n    at Module._compile (node:internal/modules/cjs/loader:1097:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)\n    at Module.load (node:internal/modules/cjs/loader:975:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47","timestamp":"2022-08-26T18:03:47.211Z"}
+{"level":"warn","message":"Warning","prop1":"metadate","test":"bau","timestamp":"2022-08-26T18:03:47.211Z","value":10}
+[Fri, 26 Aug 2022 18:03:59 GMT] info: undefined || Server running in development mode on port 5000
+[Fri, 26 Aug 2022 18:03:59 GMT] error: Error: Eroare
+    at Object.<anonymous> (C:\xampp\htdocs\Node.jsAPIMasterclassWithExpressAndMongoDB\backEnd\server.js:44:16)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 || Eroare
+[Fri, 26 Aug 2022 18:03:59 GMT] warn: undefined || Warning
+[Fri, 26 Aug 2022 18:05:26 GMT] info: undefined || Server running in development mode on port 5000
+[Fri, 26 Aug 2022 18:05:26 GMT] error: Error: Eroare
+    at Object.<anonymous> (C:\xampp\htdocs\Node.jsAPIMasterclassWithExpressAndMongoDB\backEnd\server.js:44:16)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 || Eroare
+[Fri, 26 Aug 2022 18:05:26 GMT] warn: undefined || Warning
+[Fri, 26 Aug 2022 18:05:51 GMT] info: undefined || Server running in development mode on port 5000
+[Fri, 26 Aug 2022 18:05:51 GMT] error: Error: Eroare
+    at Object.<anonymous> (C:\xampp\htdocs\Node.jsAPIMasterclassWithExpressAndMongoDB\backEnd\server.js:44:16)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 || Eroare
+[Fri, 26 Aug 2022 18:05:51 GMT] warn: undefined || Warning
+[Fri, 26 Aug 2022 18:06:15 GMT] info: undefined || Server running in development mode on port 5000
+[Fri, 26 Aug 2022 18:06:15 GMT] error: Error: Eroare
+    at Object.<anonymous> (C:\xampp\htdocs\Node.jsAPIMasterclassWithExpressAndMongoDB\backEnd\server.js:44:16)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 || Eroare
+[Fri, 26 Aug 2022 18:06:15 GMT] warn: undefined || Warning
+[Fri, 26 Aug 2022 18:06:56 GMT] info: undefined || Server running in development mode on port 5000
+[Fri, 26 Aug 2022 18:06:56 GMT] error: Error: Eroare
+    at Object.<anonymous> (C:\xampp\htdocs\Node.jsAPIMasterclassWithExpressAndMongoDB\backEnd\server.js:44:16)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 || Eroare
+[Fri, 26 Aug 2022 18:06:56 GMT] warn: undefined || Warning
+[Fri, 26 Aug 2022 18:07:12 GMT] info: undefined || {"duration":"134 ms"}
+[Fri, 26 Aug 2022 18:08:09 GMT] info: undefined || Server running in development mode on port 5000
+[Fri, 26 Aug 2022 18:08:09 GMT] error: Error: Eroare
+    at Object.<anonymous> (C:\xampp\htdocs\Node.jsAPIMasterclassWithExpressAndMongoDB\backEnd\server.js:44:16)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 || Eroare
+[Fri, 26 Aug 2022 18:08:09 GMT] warn: undefined || Warning
+[Fri, 26 Aug 2022 18:08:10 GMT] info: undefined || {"method":"GET","duration":"133 ms"}
+[Fri, 26 Aug 2022 18:08:33 GMT] info: undefined || Server running in development mode on port 5000
+[Fri, 26 Aug 2022 18:08:33 GMT] error: Error: Eroare
+    at Object.<anonymous> (C:\xampp\htdocs\Node.jsAPIMasterclassWithExpressAndMongoDB\backEnd\server.js:44:16)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 || Eroare
+[Fri, 26 Aug 2022 18:08:33 GMT] warn: undefined || Warning
+[Fri, 26 Aug 2022 18:08:34 GMT] info: undefined || {"method":"GET","query":{},"params":{},"duration":"160 ms"}
+[Fri, 26 Aug 2022 18:08:56 GMT] info: undefined || {"method":"GET","query":{"location":""},"params":{},"duration":"95 ms"}
+[Fri, 26 Aug 2022 18:09:02 GMT] info: undefined || {"method":"GET","query":{"select-location":""},"params":{},"duration":"147 ms"}
+[Fri, 26 Aug 2022 18:09:04 GMT] info: undefined || {"method":"GET","query":{"select":"location"},"params":{},"duration":"143 ms"}
+[Fri, 26 Aug 2022 18:09:19 GMT] info: undefined || {"method":"GET","query":{"ocation":""},"params":{},"duration":"141 ms"}
+[Fri, 26 Aug 2022 18:09:52 GMT] info: undefined || {"method":"GET","query":{"location":""},"params":{},"duration":"92 ms"}
+[Fri, 26 Aug 2022 18:10:14 GMT] info: undefined || {"method":"GET","query":{"select":"location"},"params":{},"duration":"139 ms"}
+[Fri, 26 Aug 2022 18:10:40 GMT] info: undefined || {"method":"GET","query":{},"params":{},"duration":"139 ms"}
+[Fri, 26 Aug 2022 18:11:21 GMT] info: undefined || Server running in development mode on port 5000
+[Fri, 26 Aug 2022 18:11:21 GMT] error: Error: Eroare
+    at Object.<anonymous> (C:\xampp\htdocs\Node.jsAPIMasterclassWithExpressAndMongoDB\backEnd\server.js:44:16)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 || Eroare
+[Fri, 26 Aug 2022 18:11:21 GMT] warn: undefined || Warning
+[Fri, 26 Aug 2022 18:11:31 GMT] info: undefined || Server running in development mode on port 5000
+[Fri, 26 Aug 2022 18:11:31 GMT] error: Error: Eroare
+    at Object.<anonymous> (C:\xampp\htdocs\Node.jsAPIMasterclassWithExpressAndMongoDB\backEnd\server.js:44:16)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 || Eroare
+[Fri, 26 Aug 2022 18:11:31 GMT] warn: undefined || Warning
+[Fri, 26 Aug 2022 18:11:38 GMT] info: undefined || Server running in development mode on port 5000
+[Fri, 26 Aug 2022 18:11:38 GMT] error: Error: Eroare
+    at Object.<anonymous> (C:\xampp\htdocs\Node.jsAPIMasterclassWithExpressAndMongoDB\backEnd\server.js:44:16)
+    at Module._compile (node:internal/modules/cjs/loader:1097:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47 || Eroare
+[Fri, 26 Aug 2022 18:11:38 GMT] warn: undefined || Warning
+[Fri, 26 Aug 2022 18:11:39 GMT] info: undefined || {"method":"GET","query":{},"params":{},"duration":"131 ms"}

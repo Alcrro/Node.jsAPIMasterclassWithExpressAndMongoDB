@@ -2,11 +2,13 @@ const ErrorResponse = require('../../utils/errorResponse');
 const asyncHandler = require('../../middleware/async');
 const Bootcamp = require('../../models/Bootcamp');
 const geocoder = require('../../utils/geocoder');
+const logger = require('../../utils/log');
 
 //	@description					Get all bootcamps
 //	@route								GET /api/v1/bootcamps
 // 	@access								Public
 exports.getBootcamps = asyncHandler(async (req, res, next) => {
+  let start = new Date();
   let query;
 
   //Copy req.query
@@ -81,6 +83,16 @@ exports.getBootcamps = asyncHandler(async (req, res, next) => {
     pagination,
     data: bootcamps,
   });
+
+  let end = new Date() - start;
+  logger.info(
+    JSON.stringify({
+      method: req.method,
+      query: req.query,
+      params: req.params,
+      duration: `${end} ms`,
+    })
+  );
 });
 
 //	@description					Get an single bootcamp
